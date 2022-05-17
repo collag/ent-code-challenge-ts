@@ -1,6 +1,6 @@
 # Getting Started with ent-code-challenge-ts app
 
-run 'npm install'
+-Developed with React 18.1.0. Run 'npm install'
 
 ## Available Scripts
 
